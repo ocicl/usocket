@@ -1,0 +1,9 @@
+* usocket
+
+Universal socket library for Common Lisp.
+
+|---------+-------------------------------------------------------------------------|
+| source  | file:https://github.com/usocket/usocket/archive/refs/tags/v0.8.6.tar.gz |
+| vesion  | 0.8.6                                                                   |
+| systems | usocket usocket-server                                                  |
+|---------+-------------------------------------------------------------------------|
