@@ -3,7 +3,7 @@
 Universal socket library for Common Lisp.
 
 |---------+-------------------------------------------------------------------------|
-| source  | file:https://github.com/usocket/usocket/archive/refs/tags/v0.8.8.tar.gz |
-| version | 0.8.8                                                                   |
+| source  | file:https://github.com/usocket/usocket/archive/refs/tags/v0.8.9.tar.gz |
+| version | 0.8.9                                                                   |
 | systems | usocket usocket-server                                                  |
 |---------+-------------------------------------------------------------------------|
